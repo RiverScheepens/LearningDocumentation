@@ -1,0 +1,3 @@
+Hello. I havent added anything to this repo since the first day I made it due to me being sick. Today at around 1600 hours I started to feel better.
+
+I started by reading about 8 pages of the C++ primer learning about type conversions and other things I already knew. I wasnt able to read much because I still feel pretty sick and want to go to sleep. I hope the book becomes more complicated in the future to challenge my brain more.
